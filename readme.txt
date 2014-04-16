@@ -3,8 +3,8 @@ Contributors: Ninos Ego
 Tags: wp-media-gallery, gallery, media, wordpress gallery, album
  
 Requires at least: 3.2.1
-Tested up to: 3.8.1
-Stable tag: 1.0.0
+Tested up to: 3.9
+Stable tag: 1.0.1
 
 A simple gallery plugin for wordpress.
 
@@ -39,6 +39,8 @@ Using the Wordpress Admin page for installing
 
 == Changelog ==
 
+= 1.0.1 =
+Compatible with Wordpress 3.9
 
 = 1.0.0 =
 First edition
